@@ -50,7 +50,7 @@ class PersianSyllableCounter:
         return ans
 
 # sample use
-# text = 'امروز می خواهم بروم به پارک'
+# text = 'امروز می خواهم به پارک بروم'
 # psc = PersianSyllableCounter()
 # print(psc.count_syllables_in_text(text))
 # output is --> 10
