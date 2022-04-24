@@ -4,7 +4,7 @@ with open("README.md", "r") as readme_file:
     readme = readme_file.read()
 
 setup(
-    name='persian_syllable_counter',
+    name='persian_syllable',
     version='1.0.0',
     description='This library can count the syllables of persian text or words by converting the persian text to finglish format',
     long_description=readme,
