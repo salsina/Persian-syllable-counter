@@ -11,6 +11,7 @@ setup(
     author='Nbic',
     long_description_content_type="text/markdown",
     packages=find_packages(include=["persiansyllablecount*"]),
+    url="https://github.com/salsina/Persian-syllable-counter.git",
     install_requires=[],
 
     keywords=['python', 'first package'],
