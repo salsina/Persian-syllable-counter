@@ -4,5 +4,5 @@ This library can count the syllables of persian text or words by converting the 
 
 # install
 ```python
-pip install git+https://github.com/salsina/Persian-syllable-counter#egg=persiansyllablecount
+pip install git+https://github.com/salsina/Persian-syllable-counter#egg=persian_syllable_counter
 ```
